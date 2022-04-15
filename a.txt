@@ -1,1 +1,2 @@
 This is a.txt[Dt and this is the first line
+This is secondline from windows bash
