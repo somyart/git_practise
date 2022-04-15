@@ -1,1 +1,2 @@
 This is b.txt's forst line
+hi this b.txt 2ndline
